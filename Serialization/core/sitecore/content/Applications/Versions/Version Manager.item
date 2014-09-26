@@ -1,0 +1,375 @@
+----item----
+version: 1
+id: {80A9D006-FD0B-45F3-BF27-5C972B135DBD}
+database: core
+path: /sitecore/content/Applications/Versions/Version Manager
+parent: {1E5FBF60-7CDC-4304-AB6E-198F5050D596}
+name: Version Manager
+master: {00000000-0000-0000-0000-000000000000}
+template: {EB06CEC0-5E2D-4DC4-875B-01ADCC577D13}
+templatekey: Application
+
+----field----
+field: {FC2B18B3-1631-4C3F-9E47-51DF05030026}
+name: Icon
+key: icon
+content-length: 35
+
+Applications/32x32/bookmark_new.png
+----field----
+field: {094829C2-D7A7-4C38-B025-B99FF2001B56}
+name: Disable close
+key: disable close
+content-length: 0
+
+
+----field----
+field: {B4E951EE-906F-4249-B2C6-68E31C82E118}
+name: Disable maximize
+key: disable maximize
+content-length: 0
+
+
+----field----
+field: {F54C1557-F8CE-4130-90A7-B89575C4CDBE}
+name: Disable minimize
+key: disable minimize
+content-length: 0
+
+
+----field----
+field: {2B3ECBBC-432A-4CEA-BB75-CE481B644FF8}
+name: Disable resize
+key: disable resize
+content-length: 0
+
+
+----field----
+field: {3549BD09-8F13-4563-8113-4D50AE5D3717}
+name: Height
+key: height
+content-length: 0
+
+
+----field----
+field: {53F846B3-F26A-4D37-896B-2F744A802DFE}
+name: Width
+key: width
+content-length: 0
+
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 35
+
+Applications/32x32/bookmark_new.png
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+0
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 237
+
+<?xml version="1.0" encoding="utf-16"?><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{203262E1-1948-439F-BE99-A3F3B1867BED}" /></r>
+----version----
+language: da
+version: 1
+revision: edfdb4e7-4af7-4c4f-a7b4-976f9a521850
+
+----field----
+field: {67B6378B-C9F1-47C7-9CAC-BFA79B0727D9}
+name: Display name
+key: display name
+content-length: 12
+
+Skraldespand
+----field----
+field: {14DCA483-AAC7-4D87-AE27-3163D21798B7}
+name: Tool tip
+key: tool tip
+content-length: 30
+
+Administrer slettede elementer
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+edfdb4e7-4af7-4c4f-a7b4-976f9a521850
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 15
+
+20060818T145001
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----version----
+language: de
+version: 1
+revision: 34fea175-31c4-489e-a42a-fcf6e7bd721c
+
+----field----
+field: {67B6378B-C9F1-47C7-9CAC-BFA79B0727D9}
+name: Display name
+key: display name
+content-length: 10
+
+Papierkorb
+----field----
+field: {14DCA483-AAC7-4D87-AE27-3163D21798B7}
+name: Tool tip
+key: tool tip
+content-length: 28
+
+Verwaltet gelöschte Elemente
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+34fea175-31c4-489e-a42a-fcf6e7bd721c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 15
+
+20060818T145001
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----version----
+language: en
+version: 1
+revision: a5aae6b7-4bb3-4bb2-ad34-723553b48887
+
+----field----
+field: {67B6378B-C9F1-47C7-9CAC-BFA79B0727D9}
+name: Display name
+key: display name
+content-length: 15
+
+Version Manager
+----field----
+field: {14DCA483-AAC7-4D87-AE27-3163D21798B7}
+name: Tool tip
+key: tool tip
+content-length: 20
+
+Manage item versions
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20101224T104200
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a5aae6b7-4bb3-4bb2-ad34-723553b48887
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110201T155501:634321725011213304
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: fr-CA
+version: 1
+revision: 9b943ccb-7ee6-43ce-8dbe-3b4efa15221d
+
+----field----
+field: {67B6378B-C9F1-47C7-9CAC-BFA79B0727D9}
+name: Display name
+key: display name
+content-length: 9
+
+Corbeille
+----field----
+field: {14DCA483-AAC7-4D87-AE27-3163D21798B7}
+name: Tool tip
+key: tool tip
+content-length: 28
+
+Gérer les articles supprimés
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9b943ccb-7ee6-43ce-8dbe-3b4efa15221d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 15
+
+20070424T123848
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\anonymous
+----version----
+language: nb-NO
+version: 1
+revision: ffe021fd-bd92-4103-93ad-0bab8876ea33
+
+----field----
+field: {67B6378B-C9F1-47C7-9CAC-BFA79B0727D9}
+name: Display name
+key: display name
+content-length: 9
+
+Papirkurv
+----field----
+field: {14DCA483-AAC7-4D87-AE27-3163D21798B7}
+name: Tool tip
+key: tool tip
+content-length: 30
+
+Administrer slettede elementer
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ffe021fd-bd92-4103-93ad-0bab8876ea33
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 15
+
+20061013T125612
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\Anonymous
+----version----
+language: nl-NL
+version: 1
+revision: 21ccecda-477a-4b77-a12b-ad90bce08e6c
+
+----field----
+field: {67B6378B-C9F1-47C7-9CAC-BFA79B0727D9}
+name: Display name
+key: display name
+content-length: 10
+
+Prullenbak
+----field----
+field: {14DCA483-AAC7-4D87-AE27-3163D21798B7}
+name: Tool tip
+key: tool tip
+content-length: 24
+
+Beheer verwijderde items
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+21ccecda-477a-4b77-a12b-ad90bce08e6c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 15
+
+20070424T163308
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\anonymous
+----version----
+language: sv-SE
+version: 1
+revision: 8d30adac-c0fc-4cb3-a685-9d6fea003351
+
+----field----
+field: {67B6378B-C9F1-47C7-9CAC-BFA79B0727D9}
+name: Display name
+key: display name
+content-length: 11
+
+Papperskorg
+----field----
+field: {14DCA483-AAC7-4D87-AE27-3163D21798B7}
+name: Tool tip
+key: tool tip
+content-length: 30
+
+Administrera borttagna element
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8d30adac-c0fc-4cb3-a685-9d6fea003351
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 15
+
+20061025T154048
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\Anonymous
