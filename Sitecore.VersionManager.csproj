@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Sitecore.VersionManager</RootNamespace>
     <AssemblyName>Sitecore.VersionManager</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
@@ -57,11 +57,11 @@
     <Reference Include="ComponentArt.Web.UI, Version=2010.1.2637.35, Culture=neutral, PublicKeyToken=9bc9f846553156bb, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
-    <Reference Include="Sitecore.Client, Version=7.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Sitecore.Client, Version=6.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>bin\Sitecore.Client.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.Kernel, Version=7.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Sitecore.Kernel, Version=6.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>bin\Sitecore.Kernel.dll</HintPath>
     </Reference>
@@ -95,7 +95,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App_Config\Include\Development.config" />
-    <None Include="App_Config\Include\Sitecore.VersionManager.config" />
+    <None Include="App_Config\Include\Sitecore.VersionManager.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Serialization\core\sitecore\content\Applications\Versions.item" />
     <None Include="Serialization\core\sitecore\content\Applications\Versions\Clean Up.item" />
     <None Include="Serialization\core\sitecore\content\Applications\Versions\Clean Up\Clean All Items.item" />
